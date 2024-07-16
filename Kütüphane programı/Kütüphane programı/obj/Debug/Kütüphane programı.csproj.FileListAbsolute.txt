@@ -1,0 +1,7 @@
+C:\Users\Skapar\source\repos\Kütüphane programı\Kütüphane programı\bin\Debug\Kütüphane programı.exe.config
+C:\Users\Skapar\source\repos\Kütüphane programı\Kütüphane programı\bin\Debug\Kütüphane programı.exe
+C:\Users\Skapar\source\repos\Kütüphane programı\Kütüphane programı\bin\Debug\Kütüphane programı.pdb
+C:\Users\Skapar\source\repos\Kütüphane programı\Kütüphane programı\obj\Debug\Kütüphane programı.csproj.AssemblyReference.cache
+C:\Users\Skapar\source\repos\Kütüphane programı\Kütüphane programı\obj\Debug\Kütüphane programı.csproj.CoreCompileInputs.cache
+C:\Users\Skapar\source\repos\Kütüphane programı\Kütüphane programı\obj\Debug\Kütüphane programı.exe
+C:\Users\Skapar\source\repos\Kütüphane programı\Kütüphane programı\obj\Debug\Kütüphane programı.pdb
