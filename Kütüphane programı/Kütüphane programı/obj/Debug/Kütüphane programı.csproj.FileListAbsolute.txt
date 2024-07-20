@@ -5,3 +5,10 @@ C:\Users\Skapar\source\repos\Kütüphane programı\Kütüphane programı\obj\Deb
 C:\Users\Skapar\source\repos\Kütüphane programı\Kütüphane programı\obj\Debug\Kütüphane programı.csproj.CoreCompileInputs.cache
 C:\Users\Skapar\source\repos\Kütüphane programı\Kütüphane programı\obj\Debug\Kütüphane programı.exe
 C:\Users\Skapar\source\repos\Kütüphane programı\Kütüphane programı\obj\Debug\Kütüphane programı.pdb
+C:\Users\user\Documents\GitHub\MethodFunctionHomework\Kütüphane programı\Kütüphane programı\bin\Debug\Kütüphane programı.exe.config
+C:\Users\user\Documents\GitHub\MethodFunctionHomework\Kütüphane programı\Kütüphane programı\bin\Debug\Kütüphane programı.exe
+C:\Users\user\Documents\GitHub\MethodFunctionHomework\Kütüphane programı\Kütüphane programı\bin\Debug\Kütüphane programı.pdb
+C:\Users\user\Documents\GitHub\MethodFunctionHomework\Kütüphane programı\Kütüphane programı\obj\Debug\Kütüphane programı.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\MethodFunctionHomework\Kütüphane programı\Kütüphane programı\obj\Debug\Kütüphane programı.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\MethodFunctionHomework\Kütüphane programı\Kütüphane programı\obj\Debug\Kütüphane programı.exe
+C:\Users\user\Documents\GitHub\MethodFunctionHomework\Kütüphane programı\Kütüphane programı\obj\Debug\Kütüphane programı.pdb
